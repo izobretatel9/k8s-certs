@@ -1,0 +1,4 @@
+global:
+  certs:
+    - name: internal.k8s
+    - name: project
